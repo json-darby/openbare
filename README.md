@@ -21,7 +21,7 @@ which in turn reduces the exposure to certain pathogens.
 This diagram illustrates the flow of information and interaction between the system's core components, from user login to secure output. It acts as a visual guide to the project's architecture.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/024dd6c6-b2e5-4f11-8280-9c62999f4da0" alt="Openbare System Architecture Flowchart" width="75%" />
+  <img src="https://github.com/user-attachments/assets/024dd6c6-b2e5-4f11-8280-9c62999f4da0" alt="Openbare System Architecture Flowchart" width="75%"/>
 </p>
 
 Once a user logs in, their credentials are verified against a secure SQLite database. They can then upload images or capture them via webcam. 
@@ -32,7 +32,7 @@ Unsaved images are deleted when the session ends to ensure data safety.
 ## A Visual Showcase
 
 ### The Application in Action
-<img src="https://github.com/user-attachments/assets/ba27640a-d2f9-4600-996b-1dd6c0952dfc" width="100%" />
+<img src="https://github.com/user-attachments/assets/ba27640a-d2f9-4600-996b-1dd6c0952dfc" width="100%"/>
 This is what the application looks like. The user has selected a masked image on the right, and the application has generated a reconstruction on the left. The user can then choose to save the output.
 
 ### Landmark Guidance
